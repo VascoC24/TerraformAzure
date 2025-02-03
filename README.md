@@ -72,9 +72,6 @@ Make sure you have the following tools installed on your environment:
 - `variables.tf`: Defines variables to customize the configuration.
 - `outputs.tf`: Defines the Terraform outputs (such as VM IP addresses).
 
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for more details.
-
 ---
 
 ### 🔗 Useful Links
