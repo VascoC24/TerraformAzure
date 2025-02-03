@@ -1,6 +1,6 @@
 # Terraform Azure - Simple VM Setup
 
-This repository contains an example configuration using **Terraform** to provision a **Virtual Machine (VM)** in **Azure**.
+This repository contains an practice made to learn how to configurate **Terraform** to provision a **Virtual Machine (VM)** in **Azure**.
 
 ## 🚀 Getting Started
 
